@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://learn-quran-onlin.github.io/Quran.com/sitemap.xml
